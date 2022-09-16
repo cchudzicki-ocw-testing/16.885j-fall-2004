@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture Notes section contains lecture notes and biographies of selected
+  guest lecturers.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -80,7 +82,7 @@ Prof. Karen Willcox
 {{< tdopen >}}
 Introduction to Aircraft Performance and Static Stability ({{% resource_link 8f0df6c4-9fdf-5760-1589-4db9b4f72745 "PDF" %}})  
   
-Aerodynamics Primer (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 10ad50ae-dfa5-2b48-e527-fbec49da636e "PDF" %}})
+Aerodynamics Primer ({{% resource_link 10ad50ae-dfa5-2b48-e527-fbec49da636e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Earll M. Murman
@@ -128,7 +130,7 @@ Prof. Ian Waitz
 9
 {{< tdclose >}}
 {{< tdopen >}}
-An Airline Viewpoint (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6cf0bd25-78b1-179e-d7f5-4c9898a60998 "PDF" %}})
+An Airline Viewpoint ({{% resource_link 6cf0bd25-78b1-179e-d7f5-4c9898a60998 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gordon McKinzie, Manager New Airplane Programs United Airlines (retired) ({{% resource_link becde51f-2917-1efe-dba9-1402e3d816ae "PDF" %}})
